@@ -1,5 +1,5 @@
-## coderefinery-documentation-example-project
-## Example project for coderefinery documentation lesson
+coderefinery-documentation-example-project
+Example project for coderefinery documentation lesson
 
 # Temperature analysis in spreadsheets
 
